@@ -1,0 +1,14 @@
+{
+  "name": "amalgamates24516",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Shopee Thailand ⭐ The best online marketplace in Singapore",
+  "keywords": [
+    "Shopee Thailand ⭐ The best online marketplace in Singapore"
+  ],
+  "repository": "https://github.com/applesociety/amalgamates24516",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
